@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+.venv/
+3-iris-and-pupil-detection/*.tif
